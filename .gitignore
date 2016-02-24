@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 
 
 # Created by https://www.gitignore.io/api/node
 
 ### Node ###
+=======
+>>>>>>> cd5bf7f487e1477e26c797cf30fe27ff0511f6c0
 # Logs
 logs
 *.log
@@ -28,13 +31,21 @@ coverage
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
 
+<<<<<<< HEAD
 # Dependency directories
 node_modules
 jspm_packages
+=======
+# Dependency directory
+node_modules
+>>>>>>> cd5bf7f487e1477e26c797cf30fe27ff0511f6c0
 
 # Optional npm cache directory
 .npm
 
 # Optional REPL history
 .node_repl_history
+<<<<<<< HEAD
 
+=======
+>>>>>>> cd5bf7f487e1477e26c797cf30fe27ff0511f6c0
